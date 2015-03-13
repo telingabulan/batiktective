@@ -1,0 +1,1 @@
+data json - aplikasi smartphone android pengenal motif batik berbasis augmented reality dengan vuforia sdk
